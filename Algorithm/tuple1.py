@@ -8,7 +8,7 @@ for i in range(1,(n/10)+1):
     l.append(tuple(l1))
 
 print(l)
-print("branch1")
+
 
 
 
